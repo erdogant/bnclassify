@@ -1,0 +1,24 @@
+echo "Cleaning previous builds first.."
+rm -rf dist
+rm -rf build
+rm -rf bnclassify.egg-info
+rm -rf __pycache__
+rm -rf .pytest_cache
+rm -rf .pylint.d
+rm -rf bnclassify/data/*.zip
+rm -rf bnclassify/data/*.bif
+rm -rf bnclassify/data/*.png
+rm -rf bnclassify/data/*.txt
+rm -rf bnclassify/data/*.json
+rm -rf bnclassify/data/*.csv
+rm -rf bnclassify/__pycache__
+rm -rf bnclassify/helpers/__pycache__
+rm -rf bnclassify/tests/__pycache__
+rm -rf bnclassify/bnclassify/*.pkl
+rm -rf bnclassify/bnclassify/*.html
+rm -rf *.js
+rm -rf *.html
+rm -rf *.css
+rm -rf *.dot
+rm -rf *.png
+rm -rf *.pkl
