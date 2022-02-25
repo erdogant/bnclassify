@@ -31,6 +31,6 @@
 
 
 * ``bnclassify`` is Python package that originates from ``bnlearn`` library.
-* More information can be found [at the bnlearn library](https://github.com/erdogant/bnlearn)
+* Examples  and information can be found [at the bnlearn github](https://github.com/erdogant/bnlearn)
 
 
