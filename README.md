@@ -18,7 +18,7 @@
 
 ``bnclassify`` is Python package that originates from ``bnlearn`` and is for learning the graphical structure of Bayesian networks, parameter learning, inference and sampling methods. Although there are very good Python packages for probabilistic graphical models, it still can remain difficult (and somethimes unnecessarily) to (re)build certain pipelines. ``bnclassify`` for python (this package) is build on the <a href="https://github.com/pgmpy/pgmpy">pgmpy</a> package and contains the most-wanted pipelines. Navigate to [API documentations](https://erdogant.github.io/bnlearn/) for more detailed information.
 
-**Star the bnlearn repo if you like it! ⭐️**
+**Star the [bnlearn](https://github.com/erdogant/bnlearn) repo if you like it! ⭐️**
 
 ## 
 
