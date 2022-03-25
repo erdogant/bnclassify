@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # Author      : E.Taskesen
 # Contact     : erdogant@gmail.com
-# github      : https://github.com/erdogant/bnclassify
+# github      : https://erdogant.github.io/bnlearn
 # Licence     : MIT
 # --------------------------------------------------
 

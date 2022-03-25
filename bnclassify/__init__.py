@@ -3,7 +3,7 @@ from bnlearn.bnlearn import bnlearn as bnclassify
 
 __author__ = 'Erdogan Tasksen'
 __email__ = 'erdogant@gmail.com'
-__version__ = '1.0.0'
+__version__ = '1.0.1'
 
 # module level doc-string
 __doc__ = """
@@ -21,14 +21,9 @@ Description
         * Constraint-based structure estimation (PC)
         * Hybrid structure estimation (MMHC)
 
-
-Example
--------
->>> https://github.com/erdogant/bnlearn
-
 References
 ----------
-* https://github.com/erdogant/bnlearn
+* https://erdogant.github.io/bnlearn
 * https://towardsdatascience.com/a-step-by-step-guide-in-detecting-causal-relationships-using-bayesian-structure-learning-in-python-c20c6b31cee5
 * https://towardsdatascience.com/a-step-by-step-guide-in-designing-knowledge-driven-models-using-bayesian-theorem-7433f6fd64be
 
